@@ -10,3 +10,7 @@
 * Git, GitHub
 * VS Code, WebStorm
 * Figma
+## Languages:
+### Russian - native
+### Turkish - Upper-Intermediate
+### English - Intermediate
