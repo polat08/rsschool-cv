@@ -1,9 +1,9 @@
 # Elena Polat
 ## Junior Frontend Developer
 ### Contact information:
-### Phone: +90 5444 6785678
-### E-mail: ankav09@gmail.com
-### Telegram: @hannaanna
+### Phone: +90 532 0568353
+### E-mail: katayeva08@gmail.com
+### Telegram: @ElenaPolat
 ### Skills and Proficiency:
 * HTML5, CSS3
 * JavaScript Basics
